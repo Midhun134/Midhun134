@@ -1,7 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Midhun Mukundan
 =======================================================================================================================================
 
-I’m Midhun Mukundan, a passionate robotics and AI enthusiast with a mission to combine innovation and technology for meaningful impact. 🌍 Background: Born in India, raised in the UAE, and completed Master’s in Robotics with AI in the UK, I bring a global perspective to problem-solving and collaboration. 🤖 Interests: I specialize in robotics, artificial intelligence, and automation. I thrive on solving complex challenges and creating systems that enhance efficiency and make life easier. 🎯 Goals: Innovate solutions that contribute to technological advancements. Make my family and country proud by leveraging knowledge to drive progress. Approach every challenge with a mindset to say "Mission Accomplished!" at the end of the journey.
+I’m Midhun Mukundan, a passionate robotics and AI enthusiast with a mission to combine innovation and technology for meaningful impact. 
+🌍 Background: 
+Born in India, raised in the UAE, and completed Master’s in Robotics with AI in the UK, I bring a global perspective to problem-solving and collaboration. 
+🤖 Interests: 
+I specialize in robotics, artificial intelligence, and automation. I thrive on solving complex challenges and creating systems that enhance efficiency and make life easier. 
+🎯 Goals: 
+Innovate solutions that contribute to technological advancements. Make my family and country proud by leveraging knowledge to drive progress. Approach every challenge with a mindset to say "Mission Accomplished!" at the end of the journey.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [midhunmukundank@gmail.com](mailto:midhunmukundank@gmail.com)
